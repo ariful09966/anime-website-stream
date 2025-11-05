@@ -1,6 +1,25 @@
-root = true
+<meta name="viewport" content="width=device-width,
+initial-scale=1.0">
+<title>Home</title>
+<!-- custom css file -->
+<link rel="stylesheet" href="css/style.css">
 
-[*.dart]
-indent_style = space
-indent_size = 2
-max_line_length = 110
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
